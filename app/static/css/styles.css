@@ -1,0 +1,39 @@
+* {
+  font-family: tahoma, helvetica, sans-serif;
+}
+
+#wrapper{
+	width: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#activ{
+	height: 150px;
+	width: 500px;
+	border: 1px solid black;
+	overflow: scroll;
+}
+
+.reset{
+	font-size: 2em;
+	border-radius: 10px;
+	padding: 7px;
+}
+
+.win{
+	color: green;
+}
+
+.lose{
+	color: red;
+}
+
+h1{
+	color: gold;
+}
+
+h1, h2, h4{
+	padding: 0;
+	margin: 0;
+}
